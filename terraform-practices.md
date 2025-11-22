@@ -12,7 +12,7 @@
       }
       github = {
         source  = "integrations/github"
-        version = "~> 6.5.0"
+        version = "~> 6.8.3"
       }
     }
     backend "azurerm" {}
