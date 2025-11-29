@@ -8,7 +8,7 @@
     required_providers {
       azurerm = {
         source  = "hashicorp/azurerm"
-        version = "~> 4.15"
+        version = "~> 4.54.0"
       }
       github = {
         source  = "integrations/github"
